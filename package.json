@@ -1,0 +1,10 @@
+{
+  "name": "my-function-repo",
+  "version": "1.0.0",
+  "description": "Minimal Azure Function example",
+  "main": "index.js",
+  "scripts": {
+    "start": "func start"
+  },
+  "dependencies": {}
+}
